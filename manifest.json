@@ -10,9 +10,10 @@
     "128" : "images/logo128.png"
   },
   "action": {
-    "default_icon": "logo32.png",
+    "default_icon": "images/logo32.png",
     "default_title": "WatchList",
-    "default_popup": "popup/popup.html"
+    "default_popup": "popup/popup.html",
+    "default_js" : "js/common.js"
   },
   "permissions": ["storage"]
 }
